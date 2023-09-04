@@ -1,4 +1,10 @@
-# Second Hand Car Dealer
+# Second-Hand Car Dealer
+
+## Process
+- Loaded Schema using CREATE command
+- Imported CSV file to MySQL
+- Executed cars schema using USE command
+- Performed different SQL queries to solve the problem
 
 ## Screenshots/Outputs
 
@@ -31,9 +37,3 @@
 ![Screenshot (99)](https://github.com/SIDDHARTH107/SQL_CarDekho/assets/103374957/09780a86-eea5-43dc-9b52-d13918519bee)
 
 ![Screenshot (100)](https://github.com/SIDDHARTH107/SQL_CarDekho/assets/103374957/67bf3745-9423-4be4-88c6-01496363c7ba)
-
-## Process
-- Loaded Schema using CREATE command
-- Imported CSV file to MySQL
-- Executed cars schema using USE command
-- Performed different SQL queries to solve the problem
